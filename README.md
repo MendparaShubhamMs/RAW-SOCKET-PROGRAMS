@@ -11,9 +11,6 @@ This repository contains a comprehensive collection of C programs that demonstra
 * **[Layer 3: IPv4 & Routing Flowcharts](Layer-3/index.html)**
 
 
-### ▶️ View the Live Demonstration & Code in Action
-* **[Layer 2: Video Explaination](https://www.youtube.com/playlist?list=PLXEDWIEtlgzg)**
-* **[Layer 3: Video Explaination](https://www.youtube.com/playlist?list=PLaWN859ZDZJw)**
 
 ---
 
